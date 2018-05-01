@@ -1,0 +1,15 @@
+# Python byte-code
+__pycache__/
+*.py[cod]
+
+# Generated documentation
+myixapidoc/
+
+#VSCode
+.vscode
+
+#Pipfile
+Pipfile.lock
+
+#SFTP Config file
+sftp-config.json
